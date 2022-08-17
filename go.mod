@@ -1,4 +1,4 @@
-module github.com/westarver/goproject
+module github.com/westarver/go-project
 
 go 1.18
 

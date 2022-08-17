@@ -25,7 +25,7 @@
 package main
 
 import (
-	"goproject"
+	"github.com/westarver/go-project"
 	"os"
 
 	msg "github.com/westarver/messenger"
